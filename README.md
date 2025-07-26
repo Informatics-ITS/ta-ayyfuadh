@@ -36,7 +36,7 @@ ZooSite adalah aplikasi edukasi kebun binatang dengan fitur klasifikasi gambar h
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone [https://github.com/Informatics-ITS/TA.git](https://github.com/Informatics-ITS/ta-ayyfuadh)
    ```
 2. Download Resources model:
   - [✅ Download Model Kusumo, 2023](https://drive.google.com/file/d/xxxxxxxx/view?usp=sharing)
