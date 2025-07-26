@@ -18,7 +18,6 @@ ZooSite adalah aplikasi edukasi kebun binatang dengan fitur klasifikasi gambar h
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 ## 🚀 Fitur Utama
 - Peta Kebun Binatang
 - Chatbot Edukatif
